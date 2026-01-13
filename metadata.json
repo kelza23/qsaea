@@ -1,0 +1,5 @@
+{
+  "name": "QSAEA Visualizer",
+  "description": "Interactive visualization of the QSAEA research paper: Learning-Based Surrogate-Assisted Modelling Strategy Selection for Expensive Constrained Multi-objective Optimisation.",
+  "requestFramePermissions": []
+}
