@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<USERNAME>.github.io/qsaea-visualizer",
+  "homepage": "https://kelza23.github.io/qsaea",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
