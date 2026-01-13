@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
           Learning-Based Surrogate-Assisted Modelling Strategy Selection for Expensive Constrained Multi-objective Optimisation
         </p>
         <p className="text-slate-400 text-sm">
-          Visualized based on the 2025 IEEE TEVC paper by Cai et al.
+          Visualized based on the <a href="https://doi.org/10.1109/TEVC.2025.3635778" target="_blank" rel="noopener noreferrer" className="text-indigo-600 hover:text-indigo-800 transition-colors">2025 IEEE TEVC paper</a> by Cai et al.
         </p>
       </div>
     </footer>
